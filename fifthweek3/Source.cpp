@@ -2,7 +2,7 @@
 #include<conio.h>
 void multipleTable(int k)
 {
-	int a[25][25], i, j, x,m;
+	int a[20][20], i, j, x;
 	for (i = 1; i <= k; i++)
 	{
 		for (j = 1; j <= k; j++)
